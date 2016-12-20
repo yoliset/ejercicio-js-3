@@ -1,5 +1,7 @@
 # Ejercicio3
-Inicio : Calculo del Sueldo
+
+##Inicio : Calculo del Sueldo Semanal
+
 ##Ingreso de Datos
 - Sueldo_Semanal
 - Sueldo_Hora
@@ -11,3 +13,5 @@ Inicio : Calculo del Sueldo
 - Pedir La cantidad de horas
 - Multiplicar  Sueldo_Hora por Cant_Horas y alamacenar en Sueldo_Semanal
 - Mostrar Sueldo_Semanal
+
+##Fin
